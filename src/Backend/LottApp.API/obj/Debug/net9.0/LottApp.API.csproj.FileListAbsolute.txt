@@ -44,3 +44,4 @@ C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.API\obj\Debug\net9.0\ref\
 C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.API\obj\Debug\net9.0\LottApp.API.sourcelink.json

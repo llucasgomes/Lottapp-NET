@@ -17,3 +17,4 @@ C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Aplication\obj\Debug\net9
 C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Aplication\obj\Debug\net9.0\refint\LottApp.Aplication.dll
 C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Aplication\obj\Debug\net9.0\LottApp.Aplication.pdb
 C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Aplication\obj\Debug\net9.0\ref\LottApp.Aplication.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Aplication\obj\Debug\net9.0\LottApp.Aplication.sourcelink.json
