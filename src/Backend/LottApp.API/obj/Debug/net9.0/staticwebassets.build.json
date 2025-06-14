@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lwtKp1xStPoRClI4+9za9+mq5aoADU/8wlxtOQAJLKU=",
+  "Source": "LottApp.API",
+  "BasePath": "_content/LottApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

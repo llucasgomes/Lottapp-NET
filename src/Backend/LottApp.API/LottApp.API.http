@@ -1,0 +1,6 @@
+@LottApp.API_HostAddress = http://localhost:5063
+
+GET {{LottApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\bin\Debug\net9.0\LottApp.Exception.deps.json
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\bin\Debug\net9.0\LottApp.Exception.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\bin\Debug\net9.0\LottApp.Exception.pdb
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\LottApp.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\LottApp.Exception.AssemblyInfoInputs.cache
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\LottApp.Exception.AssemblyInfo.cs
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\LottApp.Exception.csproj.CoreCompileInputs.cache
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\LottApp.Exception.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\refint\LottApp.Exception.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\LottApp.Exception.pdb
+C:\Users\lsgomes\Workspace\lottapp\src\Shared\LottApp.Exception\obj\Debug\net9.0\ref\LottApp.Exception.dll

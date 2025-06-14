@@ -1,0 +1,15 @@
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\bin\Debug\net9.0\LottApp.Infrastructure.deps.json
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\bin\Debug\net9.0\LottApp.Infrastructure.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\bin\Debug\net9.0\LottApp.Infrastructure.pdb
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\bin\Debug\net9.0\LottApp.Domain.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\bin\Debug\net9.0\LottApp.Domain.pdb
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.AssemblyInfo.cs
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp..9EB78281.Up2Date
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\refint\LottApp.Infrastructure.dll
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\LottApp.Infrastructure.pdb
+C:\Users\lsgomes\Workspace\lottapp\src\Backend\LottApp.Infrastructure\obj\Debug\net9.0\ref\LottApp.Infrastructure.dll

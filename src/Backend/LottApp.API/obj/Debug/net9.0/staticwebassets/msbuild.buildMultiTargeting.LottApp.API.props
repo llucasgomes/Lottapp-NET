@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LottApp.API.props" />
+</Project>
